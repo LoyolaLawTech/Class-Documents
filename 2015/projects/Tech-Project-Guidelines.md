@@ -51,7 +51,7 @@ and location of the arrest) are [regularly published in the newspaper](http://se
 He would like a way to collect all that data for marketing purposes and to determine generally where in
 town DWI arrests occur. How would he do that? [Hint: he needs a [scraper](http://en.wikipedia.org/wiki/Web_scraping).
 You can see some useful scrapers [here](http://www.kimonolabs.com/load?url=http%3A%2F%2Fwww.kimonolabs.com%2Fwelcome.html)
-and [here](https://github.com/ruipgil/scraperjs).]
+, [here](http://noodlejs.com/), and [here](https://github.com/ruipgil/scraperjs).]
 * Another lawyer represents developers who remodel and sell foreclosed homes.  He would
 like a way to quickly view which properties are available for sale and to see the property's
 location on Google Maps. He notices that 
