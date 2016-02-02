@@ -31,5 +31,9 @@ The hash is a long string of numbers and letters. Please email me the hash
 (this is how I will tell you have submitted the data properly) along with a 
 JSBin of your HTML.
 
+Notes: This should be modified so that students get the return values from the 
+server script. Will assist them in seeing if they have submitted correct 
+values.
+
 
 
