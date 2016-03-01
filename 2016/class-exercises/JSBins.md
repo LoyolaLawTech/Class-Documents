@@ -10,3 +10,9 @@
     * 1999 Table: http://jsbin.com/zavunoh/edit?html,css
     * Responsive Grid: http://jsbin.com/vidofu/edit?html,css
 
+* Bootstrap Homework Key: http://jsbin.com/fibafo/edit?html,output
+
+
+* Basic JS
+    * http://jsbin.com/doquji/edit?js,console
+    * Class exercise Answer: http://jsbin.com/caboyi/edit?html,js,console
