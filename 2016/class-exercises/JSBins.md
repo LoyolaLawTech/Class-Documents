@@ -16,3 +16,6 @@
 * Basic JS
     * http://jsbin.com/doquji/edit?js,console
     * Class exercise Answer: http://jsbin.com/caboyi/edit?html,js,console
+    * Class Review of Basic JS:  http://jsbin.com/demilec/edit?html,js,console
+* DOM Manipulation
+    * http://jsbin.com/hefoze/edit?html,css,js
