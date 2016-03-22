@@ -11,6 +11,7 @@ empty paragraph using the text() method. Simple, right?
 Remember to consult the API for help:
 
 http://api.jquery.com/val/
+
 http://api.jquery.com/text/
 
 This homework is due on Tuesday, 3/29 at 8am.
