@@ -17,5 +17,12 @@
     * http://jsbin.com/doquji/edit?js,console
     * Class exercise Answer: http://jsbin.com/caboyi/edit?html,js,console
     * Class Review of Basic JS:  http://jsbin.com/demilec/edit?html,js,console
+
 * DOM Manipulation
     * http://jsbin.com/hefoze/edit?html,css,js
+
+* jQuery cont'd
+    * http://jsbin.com/hefoze/edit?html,css,js
+    * http://jsbin.com/qerequ/edit?html,js,output (this one is called the Devyn 
+    special ;) )
+
