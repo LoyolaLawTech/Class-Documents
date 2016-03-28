@@ -1,8 +1,7 @@
 # Homework 6: A Simple List App
 
 I would like you to make a program using HTML and jQuery that works like the 
-one in [this 
-video](https://drive.google.com/file/d/0B7JWfzOhqNgNMFJPQ01EbzBJTlE/view?usp=sharing).  
+one in [this video](https://drive.google.com/file/d/0B7JWfzOhqNgNMFJPQ01EbzBJTlE/view?usp=sharing).  
 Look at at what it does: when the "Add to List" button is pressed, it takes the 
 user input and adds it to a list. It then clears the input, freeing up the user 
 to enter another item.  When the user clicks the "Reset List" link, the list is 
