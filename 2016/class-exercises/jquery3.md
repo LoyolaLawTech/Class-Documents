@@ -19,9 +19,9 @@ username is required if they do. Use jQuery's *val()* method to get the user's
 input.
 
 * Now change your form. Pretend your user is submitting a new username. You 
-have a rule that all username's must be at least 5 characters long. Give the 
+have a rule that all usernames must be at least 5 characters long. Give the 
 user a warning if they submit a username less than 5 characters. To check if 
-the user has supplied enough characters, use javascript's built in length 
+the user has supplied enough characters, use javascript's built in *length* 
 method. 
 
 
