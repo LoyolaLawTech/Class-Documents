@@ -26,3 +26,7 @@
     * http://jsbin.com/qerequ/edit?html,js,output (this one is called the Devyn 
     special ;) )
 
+* jQuery 3
+    * Some More Methods: http://jsbin.com/zisewi/edit?html,js,output
+    * Class Exercise: http://jsbin.com/deqical/edit?html,js,output
+
