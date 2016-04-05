@@ -28,3 +28,7 @@
 
 * jQuery 3
     * Some More Methods: http://jsbin.com/zisewi/edit?html,js,output
+
+* AJAX
+    * AJAX Presentation: http://jsbin.com/lajoluy/edit?html,js
+    * Class Exercise: http://jsbin.com/bagugo/edit?html,js,console
