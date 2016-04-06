@@ -8,6 +8,12 @@ Be creative. Here is an example (not so creative):
 
 https://drive.google.com/file/d/0B7JWfzOhqNgNUlRVTlU4UWlSZ0U/view
 
+Hint:
+
+The [SPAN](http://www.w3schools.com/tags/tag_span.asp) tag is useful for 
+inserting text. It is basically an empty container into which you can tell 
+jQuery to insert data (e.g., words).
+
 Your JSBin is due to me by Monday, April 11 at 5am.
 
 
