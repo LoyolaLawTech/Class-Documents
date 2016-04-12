@@ -32,3 +32,7 @@
 * AJAX
     * AJAX Presentation: http://jsbin.com/lajoluy/edit?html,js
     * Class Exercise: http://jsbin.com/bagugo/edit?html,js,console
+
+* AJAX and APIs
+    * Presentation: http://jsbin.com/tezanih/edit?html,js,console
+    * Class Exercise: http://jsbin.com/rejubu/edit?html,js,console,output
