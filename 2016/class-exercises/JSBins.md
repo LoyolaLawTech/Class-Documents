@@ -39,3 +39,4 @@
 
 * Templates:
     * Presentation: http://jsbin.com/kuvowi/edit?html,js,output
+    * Class Exercise: http://jsbin.com/kuvowi/edit?html,js,output
