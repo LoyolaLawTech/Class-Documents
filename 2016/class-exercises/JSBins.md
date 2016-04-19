@@ -36,3 +36,6 @@
 * AJAX and APIs
     * Presentation: http://jsbin.com/tezanih/edit?html,js,console
     * Class Exercise: http://jsbin.com/rejubu/edit?html,js,console,output
+
+* Templates:
+    * Presentation: http://jsbin.com/kuvowi/edit?html,js,output
