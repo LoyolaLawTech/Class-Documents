@@ -9,7 +9,7 @@ whatever, just make sure it's law-related.
 Next, using JSBin, create an HTML document that describes the software and the 
 features it has. Please include at least one screenshot of the software (using 
 an img tag)  in your document. Please further provide at least two paragraphs 
-of description of the software or other information related to the software.  
+of description of the software or other information related to the software. 
 Also include a bulleted list of the features the software offers.
 
 In addition to standard head and body tags, this assignment will require you to 
