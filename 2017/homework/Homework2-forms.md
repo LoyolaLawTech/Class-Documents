@@ -28,7 +28,7 @@ class:
 ```
 
 You may want to actually type this form for practice and to see what it does.
-Pay attention to each line and make sure you know what it does. Notice that the 
+Pay attention to each line and make sure you know what it's function is. Notice that the 
 form tag has an attribute "action" which contains a URL. This URL points to the 
 script on the server which is going to handle the data you send. Also, notice 
 each input has a "name" attribute.  When the form gets sent to the server, this 
