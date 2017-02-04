@@ -48,7 +48,7 @@ your select. If you get a response of "Invalid data received", that means the
 server did not get all of your data. Check that all of your inputs have the 
 correct "names" and that there are no other HTML errors.
 
-Your homework is due ** Wednesday, February 8 by 5pm **.
+Your homework is due **Wednesday, February 8 by 5pm**.
 
 *Note*: While you are testing your code in JSBin, you may notice that your output
 panel gets stuck on the answer you received and you cannot get back to your form. 
