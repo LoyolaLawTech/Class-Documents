@@ -42,7 +42,7 @@ JSbin with the "action" of "https://loyolalawtech.org/class-exercises/calc.php"
 Next, create two inputs, one with name "number1" and the other with the name 
 "number2".  Then create a select with the name "operator" and  with three 
 options: "add", "subtract", and "divide". Once you have done this, you should 
-be able to submit your form to the server and get the result of this equation.  
+be able to submit your form to the server and get the result of this equation.
 If you get a response of "Invalid equation", this means there is a problem with 
 your select. If you get a response of "Invalid data received", that means the 
 server did not get all of your data. Check that all of your inputs have the 
