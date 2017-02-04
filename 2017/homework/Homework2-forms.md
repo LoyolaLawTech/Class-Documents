@@ -27,14 +27,14 @@ class:
     </form>
 ```
 
-You may want to actually type this form for practice and to see what it does.  
+You may want to actually type this form for practice and to see what it does.
 Pay attention to each line and make sure you know what it does. Notice that the 
 form tag has an attribute "action" which contains a URL. This URL points to the 
 script on the server which is going to handle the data you send. Also, notice 
 each input has a "name" attribute.  When the form gets sent to the server, this 
 name attribute tells the server the meaning of what the user has typed in the 
 input. So, if the user types in "Smith" as the last name, the name of the field 
-- "lname" - will get to the server along with "Smith" so that the server knows 
+("lname") will get to the server along with "Smith" so that the server knows 
 the last name is Smith, not the first name.
 
 **Assigment**: You are going to make a simple calculator. Create a new form in 
