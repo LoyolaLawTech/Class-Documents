@@ -37,7 +37,7 @@ has typed. So, if the user types in Smith as the last name, the name of the
 field "lname" will get to the server along with "Smith" so that the server 
 knows the last name is Smith, not the first name.
 
-* Assigment * You are going to make a simple calculator. Create a new form in 
+*Assigment* You are going to make a simple calculator. Create a new form in 
 JSbin with the "action" of "https://loyolalawtech.org/class-exercises/calc.php" 
 Next, create two inputs, one with name "number1" and the other with the name 
 "number2".  Then create a select with the name "operator" and  with three 
