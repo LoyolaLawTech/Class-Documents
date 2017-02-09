@@ -14,5 +14,5 @@ server, and see your time entries.
 
 The form should look like this:
 
-![time form](timeheet.png "Form")
+![time form](timesheet.png "Form")
 
