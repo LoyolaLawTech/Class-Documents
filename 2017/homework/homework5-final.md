@@ -1,4 +1,4 @@
-# Final Assignement
+# Final Assignment
 
 Please create a simple app that looks and functions more or less like the one in 
 [this video](https://drive.google.com/file/d/0B7JWfzOhqNgNZ3BIbjZiWmhad2s/view).
