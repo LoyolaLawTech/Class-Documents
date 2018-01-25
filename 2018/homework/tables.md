@@ -8,7 +8,7 @@ will contain your actual class schedule along with the correct times:
 
 ![Schedule Table](table.png)
 
-For full credit, you markup must be correct, with no missing tags. Your table 
+For full credit, your markup must be correct, with no missing tags. Your table 
 needs to have a thead and tbody section. Extra credit will be given if you 
 figure out how to put a grey background with white text in your header, as 
 shown in the example.
