@@ -4,13 +4,14 @@
 
 For this homework, you will create a form that looks like this:
 
-![form view](form.png)
 ![form view 2](form2.png)
 
 Your form must have the following features:
 
 * Submits a POST request to https://loyolalawtech.org/homework/form.php with no 
-error
+errors. The server should respond with the data you submit. The server expects 
+your inputs to have the following names: fname, lname, address, year, city, 
+email.
 * Uses CSS to create a class called "required" which makes the label text red 
 for the required fields
 
