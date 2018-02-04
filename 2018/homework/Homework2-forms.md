@@ -14,4 +14,5 @@ your inputs to have the following names: fname, lname, address, year, city,
 email.
 * Uses CSS to create a class called "required" which makes the label text red 
 for the required fields
+* Uses CSS to make the form's font Arial.
 
