@@ -1,6 +1,6 @@
 # Homework 3 - The Grid
 
-## Due Wednesday, February 22 at 5pm
+## Due Wednesday, February 21 at 5pm
 
 When you lay out a rough sketch of what an app will look like, the process is 
 called *wireframing*. For this assignment, I would like you to wireframe a 
