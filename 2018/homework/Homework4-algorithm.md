@@ -2,7 +2,7 @@
 
 ## Due March 13, 5pm
 
-Following on our class discussion of laws as algorithm, for this assignment 
+Following on our class discussion of laws as algorithms, for this assignment 
 please create a javascript function that expresses the substance of [La. Civil 
 Code Article 103](http://www.legis.la.gov/Legis/Law.aspx?d=108533). Your 
 function should return true if the person is entitled to a divorce and false if 
