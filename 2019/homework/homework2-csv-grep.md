@@ -7,8 +7,9 @@ home directory, you will find two new files named data1.csv and data2.csv. This
 dataset is a collection of NOPD misconduct complaints which contains the nature 
 of each complaint and its current status.
 
-The second file is a copy of the first which * may or may not * have been 
+The second file is a copy of the first which **may or may not** have been 
 modified.  Your homework is to answer a few questions about these files.  
+
 Create a new file in your home directory named homework2 and answer the 
 following questions:
 
@@ -16,7 +17,8 @@ following questions:
    sha256sum to answer this question. Show me the command you entered to reach 
    your answer.
 
-For the next questions, you should use the file data2.csv and the grep command:
+For the next questions, you should use the file **data2.csv** and the grep 
+command:
 
 2. If you browse through the data in data2.csv, you will see that the first 
    column is called "Incident Type" and there are two types of incidents. How 
@@ -31,8 +33,8 @@ Notes:
 * If you are searching for a phrase with grep (in other words, more than one 
 word with spaces between), you must surround the phrase with quotes.
 
-* Search terms in grep are case-sensitive. "Unfounded" will return a different 
-count than "unfounded"
+* Search terms in grep are case-sensitive by default. "Unfounded" will return a 
+different count than "unfounded"
 
 * Each of you may have different copies of the file, so your answers may well 
 differ from those of your classmates. 
