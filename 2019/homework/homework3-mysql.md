@@ -15,7 +15,7 @@ this data with a query like this:
 
 ```mysql
 
-SELECT * from nopd_use_of_force WHERE `Division level` = '2nd District' AND 
+SELECT * FROM nopd_use_of_force WHERE `Division level` = '2nd District' AND 
 `Service Type` = 'Arresting';
 
 ```
