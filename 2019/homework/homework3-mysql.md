@@ -13,7 +13,7 @@ your search. You should now also know that you can put in more than one
 condition by using the AND keyword. So, for example, I can search two fields in 
 this data with a query like this:
 
-```
+```mysql
 
 SELECT * from nopd_use_of_force WHERE `Division level` = '2nd District' AND 
 `Service Type` = 'Arresting';
@@ -27,7 +27,8 @@ are free to use the mysql client, mycli, or phpmyadmin.
 
 1. How many use of force reports occurred after January 1, 2018?
 2. How many reports occurred in the year 2017?
-3. Of the eight police districts, which one has the most use of force reports?  
-   How many reports were there for that district?
+3. Of the eight police districts, which one has the most use of force reports?  How many reports were there for that district?
 4. How many of the use of force victims are said to have an "ethnicity" of 
    "black"? How many are "white"?
+
+
