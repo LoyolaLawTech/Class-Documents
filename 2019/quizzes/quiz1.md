@@ -47,7 +47,8 @@ do the following:
    c. Did Zaddy call your client on the day of the murder? If so how many 
    times?
 
-Write your answers to these questions in your quiz1 file.
+Write your answers to these questions in your quiz1 file. Please show the MYSQL 
+queries you used to reach your conclusions.
 
 ## Hint:
 
