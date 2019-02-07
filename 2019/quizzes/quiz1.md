@@ -62,7 +62,7 @@ SELECT * from phone_dump where `Time` = '29-Apr';
 
 ```
 
-I will get zero results because MYSQL Tries to match all of the data in the 
+I will get zero results because MYSQL tries to match all of the data in the 
 field not just part of it. To search for fields where only part of the data 
 contains '29-Apr', I would do:
 
@@ -75,6 +75,6 @@ SELECT * from phone_dump where `Time` LIKE  '%29-Apr%';
 
 ##
 
-Note: everything in this quiz is graded for accuracy. Your quizzes directory 
+Note: Everything in this quiz is graded for accuracy. Your quizzes directory 
 and quiz file must be in the right place, and your answers to the data 
 questions must be correct. All answers should be your own work.
