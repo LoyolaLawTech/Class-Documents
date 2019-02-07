@@ -2,7 +2,7 @@
 
 ## 30 minutes
 
-Assume that you are defense counsel in a murder case and reviewing discovery.  
+Assume that you are defense counsel in a murder case and reviewing discovery. 
 Your client is alleged to be an accessory after the fact to the murder. Her 
 boyfriend, who she calls "Zaddy" is alleged to be the shooter. The NOPD 
 executed a search warrant on your client's phone when she was arrested. Please 
@@ -12,7 +12,7 @@ do the following:
    home directory.
 
 2. Inside the quizzes directory, create a new file called "quiz1". You will use 
-   this to provide the rest of the answers.
+   this to provide your answers.
 
 3. Next you must download the dump of your client's call logs which have been 
    "provided" to you by the NOPD. To do this, use the wget command, which will 
@@ -33,7 +33,7 @@ do the following:
    a. Has the copy you just downloaded been modified or tampered with in any 
    way?
 
-5. I have imported the call log you received into our MYSQL shared database.  
+5. I have imported the call log you received into our MYSQL shared database. 
    Log on the database and look for the "phone_dump" table in the "shared" 
    database. Take a minute to look at the data and see how it is structured.  
    Next answer these questions:
@@ -61,7 +61,7 @@ SELECT * from phone_dump where `Time` = '29-Apr';
 
 ```
 
-I will get zero results because mysql tries to match all of the data in the 
+I will get zero results because MYSQL Tries to match all of the data in the 
 field not just part of it. To search for fields where only part of the data 
 contains '29-Apr', I would do:
 
@@ -76,4 +76,4 @@ SELECT * from phone_dump where `Time` LIKE  '%29-Apr%';
 
 Note: everything in this quiz is graded for accuracy. Your quizzes directory 
 and quiz file must be in the right place, and your answers to the data 
-questions must be correct
+questions must be correct. All answers should be your own work.
