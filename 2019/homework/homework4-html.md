@@ -12,4 +12,17 @@ with your list items. Extra credit will be given if you include a relevant
 image in the page and a link to some other relevant page or pages. 
 
 All tags must be properly closed. Don't forget that you need a HEAD tag and 
-that your content must be within a BODY tag. Good luck.
+that your content must be within a BODY tag. Here's a little something to get 
+you started:
+
+```html
+<html>
+    <head>
+
+    </head>
+    <body>
+
+
+    </body>
+</html>
+```
