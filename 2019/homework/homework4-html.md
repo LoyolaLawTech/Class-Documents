@@ -2,7 +2,7 @@
 
 ## Due Wednesday, February 13 at 5pm
 
-After our harrowing quiz last week, here is a simple homework to relax with.  
+After our harrowing quiz last week, here is a simple homework to relax with. 
 Please create a file called homework.html in your public_html directory. In 
 that file, create a page of html which lists three things. It can be anything, 
 your favorite food, a to-do list, whatever you want, as long as it is a list of 
