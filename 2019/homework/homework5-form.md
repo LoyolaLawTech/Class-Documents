@@ -9,7 +9,7 @@ in a file called ai_form.html placed in your public_html directory.Your form
 will accept the data entered by the user and make a POST request to the 
 following script on the server:
 
-http://dev.loyolalawtech.org/~jmitchel/forms/ai_data.php
+http://dev.loyolalawtech.org/~jmitchell/forms/ai_data.php
 
 This script will in turn add your information to the "ai_test" table in our 
 "shared" database.
@@ -26,7 +26,9 @@ characteristics:
    FA-01-00-00-00". Your select should submit only the code value, not the name 
    of the classification,  so e.g,
 
+```html
    <option value="FA-01-00-00-00">Adoption FA-01-00-00-00</option>
+```
 
 3. Another select with the name "classification2". It should have the same 
    options as the classification1 select.
