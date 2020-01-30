@@ -4,7 +4,7 @@
 
 For this homework, you will create a form that looks like this:
 
-![form view 2](form2.png)
+![form view 2](form.png)
 
 
 Your form should submit a POST request to 
