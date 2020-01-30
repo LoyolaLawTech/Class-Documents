@@ -22,6 +22,9 @@ Your first name input might look something like this:
 
 ```
 
+Your form should be in a file called form_homework.html in your public_html 
+folder.
+
 ### Extra Credit
 
 * Properly include skeleton.css in your page (1 pt)
