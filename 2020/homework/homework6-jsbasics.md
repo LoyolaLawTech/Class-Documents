@@ -10,7 +10,7 @@ calculator. The function should take three arguments (i.e., inputs):
 * operator - +,-,*,/ (the math operation to be performed)
 
 For help with this, view the source of the page we did in class:
-https://dev.loyolalawtech.org/~jmitchell/js.html
+http://dev.loyolalawtech.org/~jmitchell/js.html
 
 Some hints:
 
