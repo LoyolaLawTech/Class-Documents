@@ -27,4 +27,7 @@ Notes:
 
 * The "navigation" select in the bottom left corner does not have to do 
 anything when clicked.
+* You may use your past homeworks and notes to complete this quiz. You may also 
+use internet resources. You may not, however, communicate with any other person 
+to receive help with this assignment.
 * You will have an hour and ten minutes to complete this quiz. 
