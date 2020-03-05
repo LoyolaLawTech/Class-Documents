@@ -8,12 +8,12 @@ Please log on to the server and do the following:
 
 ### Desktop
 
-![Desktop Design](desktop.png, 'Desktop Design')
+![Desktop Design](desktop.png 'Desktop Design')
 
 
 ### Mobile
 
-![Mobile Design](mobile.png, 'Mobile Design')
+![Mobile Design](mobile.png 'Mobile Design')
 
 In order to receive full credit, your page should:
 
