@@ -8,9 +8,9 @@ today](https://loyno.zoom.us/rec/share/1c98Ke_a51pJWc-dt0vwa696EtW6T6a8gHcf8_EOm
 we learned how to include jQuery in our pages and how to use a few jQuery 
 methods.
 
-Please create a file in your public_html directory called remote-classHM1.html 
-and another called remote-classHM.js. In that file I would like you to attempt 
-to create an interactive game of TicTacToe which works like this:
+Please create a file in your public_html directory called remote-class-hm1.html 
+and another called remote-class-hm1.js. In that file I would like you to 
+attempt to create an interactive game of TicTacToe which works like this:
 
 ![Tic Tac Toe](tictac.gif)
 
