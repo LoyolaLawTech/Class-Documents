@@ -12,4 +12,7 @@ We start with a very simple homework. Don't get used to it! Please do the follow
    semester. It can be in any format you like, just as long as it is readable.
 6. Save the file and exit the server.
 
+Feel free to consult these cheat sheets if you need help with commands:
 
+[Linux command line](https://www.guru99.com/linux-commands-cheat-sheet.html)  
+[Vim](https://devhints.io/vim). 
