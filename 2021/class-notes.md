@@ -16,6 +16,10 @@ very basic vim commands (direction, write, quit)
 
 ## January 28
 
+* Do Class Exercise 1
+* Tables
+
+## February 4
 * https://motherfuckingwebsite.com/ http://bettermotherfuckingwebsite.com/
 
 
