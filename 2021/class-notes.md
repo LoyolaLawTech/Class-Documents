@@ -20,6 +20,8 @@ very basic vim commands (direction, write, quit)
 * Tables
 
 ## February 4
+* Forms, including submitting to server
 * https://motherfuckingwebsite.com/ http://bettermotherfuckingwebsite.com/
+* Introduction to skeleton for styling
 
 
