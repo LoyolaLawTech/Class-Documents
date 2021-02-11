@@ -24,4 +24,12 @@ very basic vim commands (direction, write, quit)
 * https://motherfuckingwebsite.com/ http://bettermotherfuckingwebsite.com/
 * Introduction to skeleton for styling
 
+## February 11
+* Review form homework
+* Intro to CSS libraries (skeleton)
+* CSS Grid
+
+## February 18
+* HTML Test
+* Brief Intro to Javascript
 
