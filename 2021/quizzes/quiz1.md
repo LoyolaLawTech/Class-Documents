@@ -11,8 +11,9 @@ and description. Further, your page will have two equal sized columns using the
 Skeleton grid. The left column will tell the user what the app is for. The 
 right column will contain the form.
 
-Please take a look at [this screencast](quiz.mp4) to get an idea of what this 
-app should look like.
+Please take a look at [this 
+screencast](https://drive.google.com/file/d/1Uqxsx_fiLgoqO2ji-V75RYsnMTm9jSlb/view?usp=sharing) 
+to get an idea of what this app should look like.
 
 In order to get full credit, your app must: 
 
