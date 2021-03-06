@@ -20,8 +20,9 @@ If these rules are not met, display an alert to the user telling them what is
 wrong. Similarly, if the rules are met, tell the user their data is valid.
 
 Extra Credit: In addition to alert, write the error message to an element in 
-your page. Here is an example video, which contains the inputs, the validation, 
-and then displays the error (note you cannot see the alert in the video).
+your page. [Here is an example 
+video](https://drive.google.com/file/d/1n2_HlKu5TgkuLiM6kF2SKFFYOU-fYMY6/view)  
+which contains the inputs, the validation, and then displays the error (note 
+you cannot see the alert in the video).
 
-![jQuery homework sample](jquery.mp4)
 
