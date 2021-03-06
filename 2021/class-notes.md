@@ -33,3 +33,13 @@ very basic vim commands (direction, write, quit)
 * HTML Test
 * Brief Intro to Javascript
 
+## February 22
+* Intro to JS
+* Using Node REPL and browser console
+
+## March 4
+* Review functions homework
+* Debug errors in vim
+* Algorithms in JS. Graduation function and CC 103 function
+* Data Structures (arrays, objects, length);
+* Beginning jQuery
