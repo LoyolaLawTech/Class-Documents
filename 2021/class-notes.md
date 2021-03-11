@@ -43,3 +43,7 @@ very basic vim commands (direction, write, quit)
 * Algorithms in JS. Graduation function and CC 103 function
 * Data Structures (arrays, objects, length);
 * Beginning jQuery
+
+## March 11
+* jquery: show/hide/toggle; html/text; append/remove
+* AJAX
