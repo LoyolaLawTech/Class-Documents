@@ -7,7 +7,7 @@ and ajaxhm.js. Load an image in your HTML file. Put a button under it that,
 when clicked, replaces it with another image. [Here's an 
 example](https://drive.google.com/file/d/1q_nt7TZO1GdzBWrPK8SMTr0NHz-RCGmP/view)
 
-## TIP:
+### TIP:
 
 You can use any image you want. Remember that in HTML you can load an image by 
 putting a URL or a file name in the src property of the img tag.  If you want 
