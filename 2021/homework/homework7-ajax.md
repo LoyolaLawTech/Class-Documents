@@ -5,13 +5,13 @@
 For this assignment, create two files in your public_html folder: ajaxhm.html 
 and ajaxhm.js. Load an image in your HTML file. Put a button under it that, 
 when, clicked replaces it with another image.[Here's an 
-example]](https://drive.google.com/file/d/1q_nt7TZO1GdzBWrPK8SMTr0NHz-RCGmP/view)
+example](https://drive.google.com/file/d/1q_nt7TZO1GdzBWrPK8SMTr0NHz-RCGmP/view)
 
 You can use any image you want. Remember that in HTML you can load an image by 
-putting a URL in the src property or you can just refer to a file on your 
-server.  If you want to keep load a copy of your image onto the server use the 
-tool wget. Here is how is how I got the image I used in the demo. In my 
-terminal, while in my public_html directory, I did: 
+putting a URL or a file name in the src property of the img tag.  If you want 
+to load a copy of your image onto the server use the tool wget. Here is how is 
+how I got the image I used in the demo. In my terminal, while in my public_html 
+directory, I did: 
 
 ```bash
 
