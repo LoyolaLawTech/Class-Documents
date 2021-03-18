@@ -47,3 +47,9 @@ very basic vim commands (direction, write, quit)
 ## March 11
 * jquery: show/hide/toggle; html/text; append/remove
 * AJAX
+
+## March 18
+* Install JSON View
+* Discuss RESTFUL APIs (use incarcerationtransparency.org API)
+* Fetching JSON with AJAX. (use file at llt.org/json/query.php)
+* POST request using AJAX (same file)
