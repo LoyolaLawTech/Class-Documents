@@ -1,9 +1,9 @@
 # Homework 8 - Working with JSON and APIs
 ## Due Wednesday, March 24 at 5pm
 
-Following on what we did in class Thursday, I would like you to practice making 
-a request for some JSON via AJAX and putting the results in an HTML document.  
-Please take a look at the data produced by the Incarceration Transparency API:
+Following on what we did in class today, I would like you to practice making a 
+request for some JSON via AJAX and putting the results in an HTML document.  Please
+take a look at the data produced by the Incarceration Transparency API:
 
 https://www.incarcerationtransparency.org/api/v1/records/deaths_db/   
 
@@ -14,7 +14,7 @@ clicks the button, an AJAX request is made to that URL and information about
 each death is displayed in your div. The data that you should display can be 
 found in the following keys: decedent_name, facility, Parish, sex, race, age.
 The decedent's name should be presented in an H1 tag. All other data should be 
-in an unordered list (<ul>).
+in an unordered list (UL).
 
 ### Tip:
 
