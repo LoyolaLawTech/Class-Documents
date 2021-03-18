@@ -8,8 +8,8 @@ take a look at the data produced by the Incarceration Transparency API:
 https://www.incarcerationtransparency.org/api/v1/records/deaths_db/   
 
 For this assignment, please create a page called jsonhm.html and put it in your 
-public_html directory.  Also create an associated javascript file jsonhm.js.  
-Your HTML file will contain a button and an div for some text.  When the user 
+public_html directory.  Also create an associated javascript file jsonhm.js.
+Your HTML file will contain a button and a div for some text.  When the user 
 clicks the button, an AJAX request is made to that URL and information about 
 each death is displayed in your div. The data that you should display can be 
 found in the following keys: decedent_name, facility, Parish, sex, race, age.
