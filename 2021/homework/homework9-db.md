@@ -15,7 +15,7 @@ csv file into sqlite3 and create a table called outlets.
 
 Once you have successfully created the database, create a file in your dbs/
 directory called answers.txt. Using SQL queries, answer the following questions 
-and put your answers in your answers.txt file. ** Please show the SQL query you 
+and put your answers in your answers.txt file. **Please show the SQL query you 
 used to get the answer along with the answer**.
 
 1. Which zip code has more ABOs, 70115 or 70118? Give the number of ABOs in 
