@@ -40,7 +40,6 @@ very basic vim commands (direction, write, quit)
 ## March 4
 * Review functions homework
 * Debug errors in vim
-* Algorithms in JS. Graduation function and CC 103 function
 * Data Structures (arrays, objects, length);
 * Beginning jQuery
 
@@ -53,3 +52,17 @@ very basic vim commands (direction, write, quit)
 * Discuss RESTFUL APIs (use incarcerationtransparency.org API)
 * Fetching JSON with AJAX. (use file at llt.org/json/query.php)
 * POST request using AJAX (same file)
+
+## March 25
+* Do a class exercise with more complicated data; get them to put it in a table
+    https://api.covidtracking.com/v1/states/la/current.json; use apiclass.js 
+    and apiclass.html
+* Perhaps move on to databases; use law schools csv as first import
+* Homework is to take eviction data and put it in a database
+
+## April 8
+* Use a database, create an api using api.js script
+
+## April 15
+
+## April 22
