@@ -2,7 +2,8 @@
 ## Due April 14 by 5pm
 
 Create a file in your dbs/ directory called homework.db. Import the following 
-cvs file to your dbs directory by running:
+cvs file to your dbs directory by running the following command while in your 
+dbs directory:
 
 ```bash
 curl https://data.nola.gov/api/views/uiry-as9x/rows.csv?accessType=DOWNLOAD > abo.csv
