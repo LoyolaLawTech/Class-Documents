@@ -52,8 +52,7 @@ If you complete all of the steps above successfully with no errors, you will
 receive the full 40 points for this project. If you would like to receive extra 
 credit, add some additional features. Here are some suggestions:
 
-* Define additional routes in your index.js file. For example. 6. Start your * 
-Define additional routes in your index.js file. For example, create a route 
+* Define additional routes in your index.js file. For example, create a route 
 that shows all evictions for a given zip code. For a real challenge, try 
 creating a route that allows the user to search the database by first and last 
 name. For hints on how to do this [consult this sample 
