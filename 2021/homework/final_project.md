@@ -70,6 +70,6 @@ Bootstrap libraries at [Bootswatch](https://bootswatch.com/).
 
 Up to 10 additional points of extra credit may be earned.
 
-** You may not collaborate with any one else on this project. All work must be 
+**You may not collaborate with any one else on this project. All work must be 
 your own. You can consult your past Tech Clinic work, our class videos, and any 
-internet reference sites. **
+internet reference sites.**
