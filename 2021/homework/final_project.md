@@ -15,7 +15,7 @@ To start your project, follow these steps:
    executing:
 
 ```
-    wget http://dev.loyolalawtech/~jmitchell/final_project.zip
+    wget http://dev.loyolalawtech.org/~jmitchell/final_project.zip
     unzip final_project.zip
 
 ```
