@@ -11,8 +11,9 @@ eviction issues.
 To start your project, follow these steps:
 
 1. Create a directory called final_project in your home directory.
-2. Enter your final project directory and download the project skeleton by 
-   executing:
+2. Enter your final project directory and download the project skeleton files.  
+   This will include the data (a csv file), index.js, and package.json. Do this  
+   by executing:
 
 ```
     wget http://dev.loyolalawtech.org/~jmitchell/final_project.zip
