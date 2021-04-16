@@ -3,10 +3,10 @@
 # Due Wednesday May 19 by 5pm
 
 The final project aims to synthesize everything you have learned in the clinic 
-this semester. You will create a page that displays the eviction data for First 
-Parish Court for the month of March, 2021. The best executed project will be 
-used in the website the Clinic will use to advocate around post-COVID eviction 
-issues.
+this semester. You will create a page that displays the eviction data from 
+First Parish Court for the month of March, 2021. The best executed project will 
+be used in the website the Clinic will use to advocate around post-COVID 
+eviction issues.
 
 To start your project, follow these steps:
 
@@ -52,58 +52,8 @@ If you complete all of the steps above successfully with no errors, you will
 receive the full 40 points for this project. If you would like to receive extra 
 credit, add some additional features. Here are some suggestions:
 
-* Define additional routes in your index.js file. For example. 6. Start your 
-API server:
-
-```
-forever start index.js
-```
-
-7. In your public_html directory, create a new directory called final_project.  
-   Create two files index.html and index.js. Using HTML and jQuery, create a 
-   page which makes an AJAX call to your API server and displays the eviction 
-   data in a table. Make sure that your table has a header row with all the 
-   columns correctly named. Use skeleton.css to style your table.
-
-If you complete all of the steps above successfully with no errors, you will 
-receive the full 40 points for this project. If you would like to receive extra 
-credit, add some additional features. Here are some suggestions:
-
-* Define additional routes in your index.js file. For example. 6. Start your 
-API server:
-
-```
-forever start index.js
-```
-
-7. In your public_html directory, create a new directory called final_project.  
-   Create two files index.html and index.js. Using HTML and jQuery, create a 
-   page which makes an AJAX call to your API server and displays the eviction 
-   data in a table. Make sure that your table has a header row with all the 
-   columns correctly named. Use skeleton.css to style your table.
-
-If you complete all of the steps above successfully with no errors, you will 
-receive the full 40 points for this project. If you would like to receive extra 
-credit, add some additional features. Here are some suggestions:
-
-* Define additional routes in your index.js file. For example. 6. Start your 
-API server:
-
-```
-forever start index.js
-```
-
-7. In your public_html directory, create a new directory called final_project.  
-   Create two files index.html and index.js. Using HTML and jQuery, create a 
-   page which makes an AJAX call to your API server and displays the eviction 
-   data in a table. Make sure that your table has a header row with all the 
-   columns correctly named. Use skeleton.css to style your table.
-
-If you complete all of the steps above successfully with no errors, you will 
-receive the full 40 points for this project. If you would like to receive extra 
-credit, add some additional features. Here are some suggestions:
-
-* Define additional routes in your index.js file. For example, create a route 
+* Define additional routes in your index.js file. For example. 6. Start your * 
+Define additional routes in your index.js file. For example, create a route 
 that shows all evictions for a given zip code. For a real challenge, try 
 creating a route that allows the user to search the database by first and last 
 name. For hints on how to do this [consult this sample 
