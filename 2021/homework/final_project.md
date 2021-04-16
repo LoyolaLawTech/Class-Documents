@@ -42,6 +42,14 @@ npm install
 forever start index.js
 ```
 
+Note that you may have to stop and restart your API server if you make any 
+changes to your index.js file. To do that, execute:
+
+```
+forever stop 0
+forever start index.js
+```
+
 7. In your public_html directory, create a new directory called final_project.  
    Create two files index.html and index.js. Using HTML and jQuery, create a 
    page which makes an AJAX call to your API server and displays the eviction 
