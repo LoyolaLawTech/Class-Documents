@@ -3,7 +3,7 @@
 # Due Thursday May 19 by 5pm
 
 The final project aims to synthesize everything you have learned in the clinic 
-this semester. You will create a small app that displays data from Prof.  
+this semester. You will create a small app that displays data from Prof. 
 Armstrong's [Incarceration Transparency](https://www.incarcerationtransparency.org/?page_id=1440)
 website API.
 
