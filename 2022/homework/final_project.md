@@ -4,10 +4,8 @@
 
 The final project aims to synthesize everything you have learned in the clinic 
 this semester. You will create a small app that displays data from Prof.  
-Armstrong's
-[Incarceration 
-Transparency](https://www.incarcerationtransparency.org/?page_id=1440) website 
-API.
+Armstrong's [Incarceration Transparency](https://www.incarcerationtransparency.org/?page_id=1440)
+website API.
 
 To start your project, follow these steps:
 
@@ -16,7 +14,8 @@ To start your project, follow these steps:
    page.
 
 2. Using the Skeleton grid system to create a page with a header which says 
-   what the name of your app is and then a body where the data will be 
+   what the name of your app is (the header should have a colored background 
+   which is declared in your css file)and then a body where the data will be 
    displayed.
 
 3. In your javascript file, make an AJAX request to https://incarcerationtransparency.org/api/v1/records/deaths_db/
@@ -39,7 +38,6 @@ single page listing of all of the data associated with that record.
 
 * Create a search box which allows the user to search for a decedent by name.
 The URL for such a search request would be:
-
 https://incarcerationtransparency.org/api/v1/records/deaths_db/?filter=decedent_name,cs,[SEARCH_TERM]
 
 So, if you were looking for all decedents whose name includes "Smith" the query 
