@@ -23,3 +23,10 @@ validation (length, contains)
 alert
 https://jsbin.com/kuhuvobene/edit?html,js
 
+[....]
+
+
+## April 8
+
+* Templating
+* 
