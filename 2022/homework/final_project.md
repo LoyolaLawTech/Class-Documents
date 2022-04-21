@@ -30,8 +30,10 @@ Here is an example of what all of this might look like:
 
 If you complete all of the steps above successfully with no errors, you will 
 receive the full 40 points for this project. If you would like to receive extra 
-credit (up to 20 points), add some additional features. Here are some 
-suggestions:
+credit (up to 20 points), add one or more of the following additional features. 
+
+* Create a menu or add some links that point to other resources on the 
+Incarceration Transparency site
 
 * Design your page so that a user can click on a particular record and see a 
 single page listing of all of the data associated with that record. 
